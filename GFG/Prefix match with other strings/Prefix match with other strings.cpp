@@ -41,3 +41,21 @@ public:
         return count;
     }
 };
+
+
+//2nd way
+
+class Solution{   
+public:
+    int klengthpref(string arr[], int n, int k, string str){    
+        
+        int count = 0;
+        if(str.size()<k) return 0;
+        for(int i=0;i<n;i++)
+        {
+            if(arr[i].substr(0,k)==str.substr(0,k))
+                count++;
+        }
+        return count;
+    }
+};
