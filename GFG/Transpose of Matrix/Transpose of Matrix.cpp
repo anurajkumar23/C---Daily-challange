@@ -34,7 +34,7 @@
 // -109 <= mat[i][j] <= 10
 
 
- void transpose(vector<vector<int> >& matrix, int n)
+ void transpose(vector<vector<int>>& matrix, int n)
     { 
         // code here 
         for(int i=0; i<n;i++){
