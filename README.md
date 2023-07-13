@@ -2,5 +2,7 @@
 
 ## 10 DAY OF CHALLANGE  - completed✅
 
-## 20 DAY OF CHALLANGE  - 19 completed✅
+## 20 DAY OF CHALLANGE  - completed✅
+
+## 30 DAY OF CHALLANGE - 
 
