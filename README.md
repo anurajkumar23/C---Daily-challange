@@ -6,4 +6,4 @@
 
 ## 30 DAY OF CHALLANGE -  completed✅
 
-## 50 DAY OF CHALLANGE - 30 completed✅
+## 50 DAY OF CHALLANGE - 31 completed✅
